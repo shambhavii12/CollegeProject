@@ -50,7 +50,7 @@ The system uses **Oracle Database** to store user credentials and voter informat
 | **Java (JDK 8+)**                 | Main programming language |
 | **Swing & AWT**                   | Interface design          |
 | **Oracle Database 21c XE**        | Backend database          |
-| **JDBC (ojdbc8.jar/ojdbc11.jar)** | Database connectivity     |
+| **JDBC (ojdbc8.jar)**             | Database connectivity     |
 | **Eclipse**                       | IDE (optional)            |
 
 ---
@@ -128,11 +128,11 @@ You can add screenshots of:
 
 *Sign Up Page
 * SignUp Page
-* ![Signup](https://github.com/user-attachments/assets/1ef1e283-c9a6-4ceb-bdee-b480d2ba6c7d)
+  ![Signup](https://github.com/user-attachments/assets/1ef1e283-c9a6-4ceb-bdee-b480d2ba6c7d)
 * Login Page
-* <img width="1990" height="1181" alt="Login" src="https://github.com/user-attachments/assets/f68a1879-f044-4262-887e-61fcad9ac0a4" />
+ <img width="1990" height="1181" alt="Login" src="https://github.com/user-attachments/assets/f68a1879-f044-4262-887e-61fcad9ac0a4" />
 * Registration Page
-* <img width="1990" height="1351" alt="Registration" src="https://github.com/user-attachments/assets/cbb3d954-5e1a-44a7-b00e-6ffffa46a67f" />
+ <img width="1990" height="1351" alt="Registration" src="https://github.com/user-attachments/assets/cbb3d954-5e1a-44a7-b00e-6ffffa46a67f" />
 
 ---
 ## **▶️ Running the Application**
