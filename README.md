@@ -51,7 +51,7 @@ The system uses **Oracle Database** to store user credentials and voter informat
 | **Swing & AWT**                   | Interface design          |
 | **Oracle Database 21c XE**        | Backend database          |
 | **JDBC (ojdbc8.jar)**             | Database connectivity     |
-| **Eclipse**                       | IDE (optional)            |
+| **VS Code**                       | IDE (optional)            |
 
 ---
 
