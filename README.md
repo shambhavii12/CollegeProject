@@ -126,7 +126,8 @@ String password = "your_password";
 
 You can add screenshots of:
 
-* SignUp Page ![Signup](https://github.com/user-attachments/assets/1ef1e283-c9a6-4ceb-bdee-b480d2ba6c7d)
+* SignUp Page
+  <img width="1990" height="1181" alt="SignUp" src="https://github.com/user-attachments/assets/1ef1e283-c9a6-4ceb-bdee-b480d2ba6c7d"/>
 * Login Page
  <img width="1990" height="1181" alt="Login" src="https://github.com/user-attachments/assets/f68a1879-f044-4262-887e-61fcad9ac0a4" />
 * Registration Page
